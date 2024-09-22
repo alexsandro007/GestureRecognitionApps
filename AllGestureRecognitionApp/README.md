@@ -13,7 +13,7 @@ AllGestureRecognitionApp is an Android application that demonstrates the recogni
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/GestureRecognitionApps.git
+   git clone https://github.com/alexsandro007/GestureRecognitionApps.git
    ```
 2. Open the AllGestureRecognitionApp folder in Android Studio.
 3. Build and run the project on an Android emulator or a physical device.
